@@ -2,7 +2,7 @@ export const products = [
   {
     coverImage: './assets/img/apple-1867461_1920.jpg',
     name: 'Phone XL',
-    price: 799,
+    price: 10000,
     description: 'A large phone with one of the best screens',
     heading1: 'サンプルテキスト1',
     heading2: 'サンプルテキスト2',
